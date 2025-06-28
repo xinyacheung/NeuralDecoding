@@ -1,8 +1,6 @@
 # This repository is for the under review manuscript "Unsupervised functional alignment via data-driven ANN-based visual decoding"
 
 
-
-
 #### Software & toolbox
 
 * python (>= 3.8)
