@@ -1,4 +1,4 @@
-# This repository is for the paper "Decoding region-level visual functions from EEG data"
+# This repository is for the under review manuscript "Unsupervised functional alignment via data-driven ANN-based visual decoding"
 
 
 
