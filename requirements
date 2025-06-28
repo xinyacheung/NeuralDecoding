@@ -1,0 +1,8 @@
+numpy
+scipy
+pytorch
+tqdm
+pytorch
+wandb
+pytorch_ssim
+matplotlib

@@ -1,0 +1,9 @@
+# Experiment_one is to show the reconstructed videos using test data.
+
+# Experiment_two is to show the reconstructed videos using masked data (where you could change masked region name [line 4 "experiment_name"] when running the code.)
+
+# Experiment_three is to show the reconstructed videos using limited data (where you could change which limited data when running the code through changing name [line 4 "experiment_name"])
+
+# Experiment_four is to show the predicted activity using Inverse Model.
+
+# Feature_decomp is to show the feature decomposition results on brain data and model representations.
